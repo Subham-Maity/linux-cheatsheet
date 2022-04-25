@@ -21,7 +21,7 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
 
 
 # Basic Linux commands
-<table class="table table-striped">****
+<table class="table table-striped">
 <thead>
 <tr>
 <th>Command</th>
@@ -159,25 +159,7 @@ to-address &lt; Filename<br />
 <div class='code-block code-block-2' style='margin: 8px 0; clear: both;'>
 <!-- Async AdSlot 1 for Ad unit 'guru99.com_728x90' ### Size: [[728,90],[468,60],[300,250]] -->
 <!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[0]]) -->
-<style>
-@media(max-width: 499px) { .videocontentmobile {min-height: 280px; } }
-@media only screen and (min-width: 500px) and (max-width: 1023px){.videocontentmobile {min-height: 100px;}}
-@media(min-width: 1024px) { .videocontentmobile {min-height: 250px; } }
-</style>
-<div class="videocontentmobile">
-<div id='div-gpt-ad-9092914-1'>
-  <script type='text/javascript'>              
-    if (typeof(pubwise) != 'undefined' && pubwise.enabled === true) {
-      pubwise.que.push(function() {              
-          pubwise.renderAd('div-gpt-ad-9092914-1');
-      });
-    }else{
-      googletag.cmd.push(function () {                    
-        googletag.display('div-gpt-ad-9092914-1');
-        googletag.pubads().refresh([gptadslots['div-gpt-ad-9092914-1']]);          
-      });
-    }
-  </script>
+
 </div>
 
 </div>
@@ -304,28 +286,8 @@ to-address &lt; Filename<br />
 <!-- Async AdSlot 2 for Ad unit 'guru99.com_728x90' ### Size: [[728,90],[468,60],[300,250]] -->
 <!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[1]]) -->
 
-<style>
-@media(max-width: 499px) { .content2 {min-height: 100px !important; }}
-@media(min-width: 500px) { .content2 {min-height: 91px !important; } }
-</style>
-<div class="content2">
-<div id='div-gpt-ad-9092914-2' >
-  <script type='text/javascript'>              
-    if (typeof(pubwise) != 'undefined' && pubwise.enabled === true) {
-      pubwise.que.push(function() {              
-          pubwise.renderAd('div-gpt-ad-9092914-2');
-      });
-    }else{
-      googletag.cmd.push(function () {                    
-        googletag.display('div-gpt-ad-9092914-2');
-        googletag.pubads().refresh([gptadslots['div-gpt-ad-9092914-2']]);          
-      });
-    }
-  </script>
-</div>
-</div>
-<!-- End AdSlot 2 -->
-</div>
+
+
 
 # Networking command
 
@@ -426,28 +388,8 @@ to-address &lt; Filename<br />
 </tr>
 </tbody>
 </table>
-<div class='code-block code-block-4' style='margin: 8px 0; clear: both;'>
-<style>
-@media(max-width: 1023px) {.content61 {min-height: 91px !important; }}
-@media(min-width: 1024px) {.content61 {min-height: 280px !important; }}
-</style>
-<div class='content61'>
-<div id='div-gpt-ad-9092914-6'>
-    <script type='text/javascript'>              
-      if (typeof(pubwise) != 'undefined' && pubwise.enabled === true) {
-        pubwise.que.push(function() {              
-            pubwise.renderAd('div-gpt-ad-9092914-6');
-        });
-      }else{
-        googletag.cmd.push(function () {                    
-          googletag.display('div-gpt-ad-9092914-6');
-          googletag.pubads().refresh([gptadslots['div-gpt-ad-9092914-6']]);          
-        });
-      }
-    </script>
-  </div>
-</div>
-</div>
+
+
 
 # VI Editing Commands
 <table class="table table-striped">
